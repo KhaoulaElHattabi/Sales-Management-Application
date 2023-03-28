@@ -6,8 +6,4 @@ Sales management Application is a .Net software application that can be used to 
 <div align="center">
   <a href="https://github.com/KhaoulaElHattabi/Sales-Management-Application.git">
     <img src="images/logo.png" alt="Logo" width="500" height="350">
-
-  <a href="https://github.com/KhaoulaElHattabi/Sales-Management-Application.git">
-    <img src="images/logo.png" alt="Logo" width="500" height="350">
-  </a>
   </div>
